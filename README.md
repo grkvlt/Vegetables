@@ -1,5 +1,5 @@
-VEGETABLES
-==========
+VEGETABLES 0.7.4
+================
 
 **Experimental video edge detection system.**
 
@@ -15,18 +15,16 @@ video feed and still adjust the algorithm, for both real-time and recorded
 frames being replayed. comprehensive display of status information with
 full help text screen available for interactive features.
 
+![Vegetables](https://raw.githubusercontent.com/grkvlt/Vegetables/master/vegetables.png)
+
 ## TODO
 
-- Fix 'a' key functionality
+- Fix `a` key functionality
 - Missing out some dots in the detection list.
-- Most obvious with 'd' enabled and paused image, flip between 'a' on and
+- Most obvious with `d` enabled and paused image, flip between `a` on and
   off modes to see the effect. Probably just not including the entire array
   when creating line segments?
 
 ---
-Author: Andrew Donald Kennedy <mailto:andrew.international@gmail.com>
-Created: 2009-08-19
-Last-Modified: 2017-02-01, 2013-09-06
-Version: 0.7.4
-
-_Copyright 2009-2017 by Andrew Kennedy_
+_Copyright 2009-2017 by [Andrew Donald Kennedy](mailto:andrew.international@gmail.com)
+and Licensed under the [Apache Software License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)_
